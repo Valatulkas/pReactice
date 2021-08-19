@@ -1,0 +1,16 @@
+body {
+    height: 200vh;
+}
+
+#main-input {
+    width: 900px;
+}
+
+input {
+    width: 40px;
+}
+
+#root1 {
+    border: thin;
+    border-color: blueviolet;
+}
